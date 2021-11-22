@@ -1,4 +1,4 @@
-# Unofficial PyTorch implementation of [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+# Unofficial Paddlepaddle implementation of [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 
 This repository is built upon [BEiT](https://github.com/microsoft/unilm/tree/master/beit), thanks very much!
 
