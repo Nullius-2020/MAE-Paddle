@@ -1,6 +1,6 @@
 # Unofficial Paddlepaddle implementation of [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 
-This repository is built upon [BEiT](https://github.com/microsoft/unilm/tree/master/beit), thanks very much!
+This repository is built upon [MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) and PaddleViT (https://github.com/BR-IDL/PaddleViT), thanks very much!
 
 
 Now, we implement the pretrain and finetune process according to the paper, but still **can't guarantee** the performance reported in the paper can be reproduced! 
